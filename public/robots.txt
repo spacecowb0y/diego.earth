@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://diego.earth/sitemap.xml
